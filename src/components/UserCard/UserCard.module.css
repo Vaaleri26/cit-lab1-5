@@ -1,0 +1,15 @@
+.card {
+    margin: 20px;
+    border: 10px solid rgb(116, 69, 69);
+    padding: 15px;
+}
+
+
+
+.text {
+    line-height: 24px;
+    color: #000;
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
